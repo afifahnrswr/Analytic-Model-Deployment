@@ -41,6 +41,6 @@ Setelah mendapatkan Web, maka dapat menjalankan model menggunakan Postman, untuk
 2. Melakukan input data testing pada bagian Body - Row. Dan input data yang diinginkan pada laman tersebut.
 ![image9](https://github.com/afifahnrswr/Analytic-Model-Deployment/blob/master/image/img9.JPG)
 3. Maka akan diperoleh hasil prediksi pada pemodelan Data Astra Credit Scoring menggunakan Pemodelan Random Forest
-
+![image10](https://github.com/afifahnrswr/Analytic-Model-Deployment/blob/master/image/img10.JPG)
 
 Selamat mencoba :)
