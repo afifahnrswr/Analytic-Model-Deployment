@@ -1,7 +1,7 @@
 # Analytic-Model-Deployment
 
 *Model Deployment* merupakan metode dalam pengintegrasian model *machine learning* yang merupakan salah satu tahap terakhir setelah mendapatkan model yang telah dioptimasi. Beberapa cara dalam mengimplementasikan model *machine learning* yaitu dengan menggunakan :
-1. Rewriting (menulis ualng kembali model yang telah dibuat)
+1. Rewriting (menulis ulang kembali model yang telah dibuat)
 2. API / Application Programming Interface (antarmuka yang berupa sekumpulan fungsi yang dapat dijalankan menggunakan program lain)
 
 Pada umumnya dalam melakukan *Model Deployment* dapat digambarkan sebagai berikut.
